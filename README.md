@@ -1,6 +1,6 @@
 # sbc-raspberrypi
 
-This repo provides the overlay for Raspberry Pi generic Talos image.
+This repo provides a experimental of the overlay for Raspberry Pi generic Talos image.
 
 ## Overlay Options
 
