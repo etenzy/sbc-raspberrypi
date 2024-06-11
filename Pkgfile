@@ -9,8 +9,8 @@ vars:
   raspberrypi_firmware_sha512: 111d80661f2887afbc6384e513ae3c1c5e704090b917caee19fd0a40ff2c013b53d6cf5109e2a3c4712c0a93967f395a7bbcebca28b29b23be2a29b98c59af54
 
   # renovate: datasource=github-tags extractVersion=^v(?<version>.*)$ depName=u-boot/u-boot
-  uboot_version: 2024.01
-  uboot_sha256: b99611f1ed237bf3541bdc8434b68c96a6e05967061f992443cb30aabebef5b3
-  uboot_sha512: 45bd093ba3bda23e43cdde83d8656c1ee1348ac2886ecff1fee475f101ac4965a5be6565408fa5b990c723f3fdc833edfca60a719f735a43040cd14a1b59a88b
+  uboot_version: 2024.04
+  uboot_sha256: 18a853fe39fad7ad03a90cc2d4275aeaed6da69735defac3492b80508843dd4a
+  uboot_sha512: a71270302b38e9e68a83b3acdf8f7635f72d9fa75169e3c2241cdfa21eab834b8f25dfd35c281191bccb2fcec1e86d6b64afcf1d2ed5cd4fdc02258cd75fc236
 labels:
   org.opencontainers.image.source: https://github.com/siderolabs/sbc-raspberrypi
