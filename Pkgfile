@@ -4,9 +4,9 @@ format: v1alpha2
 
 vars:
   # renovate: datasource=git-refs versioning=git depName=https://github.com/raspberrypi/firmware.git
-  raspberrypi_firmware_ref: dc94391863445ab867782d25ca6ae1e88579df5d
-  raspberrypi_firmware_sha256: a37041044b4d46e324dc03f64455a7c79a38aaf77d0bfc03e6ad7052fc217cd1
-  raspberrypi_firmware_sha512: cf5ed2ce16ee059c9c185ef53d079fb4a59720f1729c270480f2ffb46e5d990936ad58233486143f71d60116fd14e78edb81cd13feec1a787a47650d7eaaf56f
+  raspberrypi_firmware_ref: 3590de0c181d433af368a95f15bc480bdaff8b47
+  raspberrypi_firmware_sha256: a116479e4e8e3bae354860d00321e5df5010cdbe10a3db9e59c81858a0aec84d
+  raspberrypi_firmware_sha512: 111d80661f2887afbc6384e513ae3c1c5e704090b917caee19fd0a40ff2c013b53d6cf5109e2a3c4712c0a93967f395a7bbcebca28b29b23be2a29b98c59af54
 
   # renovate: datasource=github-tags extractVersion=^v(?<version>.*)$ depName=u-boot/u-boot
   uboot_version: 2024.01
